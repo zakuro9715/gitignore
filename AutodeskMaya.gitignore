@@ -1,0 +1,8 @@
+/autosave/
+/cache/
+
+tmp/
+.mayaSwatches
+
+// Arnold texture. Arnold generates .tx automatically if missing.
+*.tx  
